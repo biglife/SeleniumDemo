@@ -1,7 +1,0 @@
-f:\users\nowhereman\documents\visual studio 2013\Projects\SeleniumDemo\SeleniumDemo\bin\Debug\SeleniumDemo.dll
-f:\users\nowhereman\documents\visual studio 2013\Projects\SeleniumDemo\SeleniumDemo\bin\Debug\SeleniumDemo.pdb
-f:\users\nowhereman\documents\visual studio 2013\Projects\SeleniumDemo\SeleniumDemo\bin\Debug\WebDriver.dll
-f:\users\nowhereman\documents\visual studio 2013\Projects\SeleniumDemo\SeleniumDemo\bin\Debug\WebDriver.xml
-f:\users\nowhereman\documents\visual studio 2013\Projects\SeleniumDemo\SeleniumDemo\obj\Debug\SeleniumDemo.csprojResolveAssemblyReference.cache
-f:\users\nowhereman\documents\visual studio 2013\Projects\SeleniumDemo\SeleniumDemo\obj\Debug\SeleniumDemo.dll
-f:\users\nowhereman\documents\visual studio 2013\Projects\SeleniumDemo\SeleniumDemo\obj\Debug\SeleniumDemo.pdb
