@@ -8,3 +8,4 @@ E:\NancyProjects\SeleniumDemo\TestChuke\bin\Debug\WebDriver.Support.dll
 E:\NancyProjects\SeleniumDemo\TestChuke\bin\Debug\WebDriver.Support.xml
 E:\NancyProjects\SeleniumDemo\TestChuke\bin\Debug\TestChuke.dll.config
 E:\NancyProjects\SeleniumDemo\TestChuke\bin\Debug\TechTalk.SpecFlow.dll
+E:\NancyProjects\SeleniumDemo\TestChuke\obj\Debug\TestChuke.csprojResolveAssemblyReference.cache
