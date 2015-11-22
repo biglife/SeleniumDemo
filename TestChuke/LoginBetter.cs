@@ -16,7 +16,7 @@ namespace TestChuke
         public void BetterLoginAdmin()
         {
             var loginPage = new PageObject.LoginPage(Driver);
-           loginPage.OpenPage("http://211.144.201.107:8080/");
+            loginPage.OpenPage("http://211.144.201.107:8080/");
             loginPage.InputUserName("Sysadmin");
             loginPage.InputPassword("abc123");
             loginPage.Clicklogin();

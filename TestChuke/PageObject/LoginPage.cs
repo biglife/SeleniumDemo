@@ -10,35 +10,35 @@ namespace TestChuke.PageObject
 {
     public class LoginPage
     {
-        private IWebDriver _driver;
+        private SeleniumHelper helper;
         public LoginPage(IWebDriver driver)
         {
-            _driver = driver;
+            helper = new SeleniumHelper(driver);
         }
 
         public void InputUserName(string userName)
         {
-            new SeleniumHelper(_driver).Input(By.Name("Account"), userName);
+            helper.Input(By.Name("Account"), userName);
         }
 
         public void InputPassword(string password)
         {
-            new SeleniumHelper(_driver).Input(By.Name("PWD"), password);
+            helper.Input(By.Name("PWD"), password);
         }
 
         internal void AssertLoginSuccessful()
         {
-            new SeleniumHelper(_driver).AssertElementExist(By.XPath("//article[@id='Home']"));
+            helper.AssertElementExist(By.XPath("//article[@id='Home']"));
         }
 
         internal void Clicklogin()
         {
-            new SeleniumHelper(_driver).ClickElement(By.XPath("//article[@id='Home']/div/form/fieldset/section[4]/button"));
+            helper.ClickElement(By.XPath("//article[@id='Home']/div/form/fieldset/section[4]/button"));
         }
 
         internal void OpenPage(string pageUrl)
         {
-            new SeleniumHelper(_driver).OpenPage(pageUrl);
+            helper.OpenPage(pageUrl);
         }
 
     }
