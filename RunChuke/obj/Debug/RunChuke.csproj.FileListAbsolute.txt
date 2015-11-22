@@ -1,0 +1,11 @@
+f:\users\nowhereman\documents\visual studio 2013\Projects\SeleniumDemo\RunChuke\bin\Debug\RunChuke.exe.config
+f:\users\nowhereman\documents\visual studio 2013\Projects\SeleniumDemo\RunChuke\bin\Debug\RunChuke.exe
+f:\users\nowhereman\documents\visual studio 2013\Projects\SeleniumDemo\RunChuke\bin\Debug\RunChuke.pdb
+f:\users\nowhereman\documents\visual studio 2013\Projects\SeleniumDemo\RunChuke\bin\Debug\WebDriver.dll
+f:\users\nowhereman\documents\visual studio 2013\Projects\SeleniumDemo\RunChuke\bin\Debug\WebDriver.xml
+f:\users\nowhereman\documents\visual studio 2013\Projects\SeleniumDemo\RunChuke\obj\Debug\RunChuke.exe
+f:\users\nowhereman\documents\visual studio 2013\Projects\SeleniumDemo\RunChuke\obj\Debug\RunChuke.pdb
+F:\Users\NowhereMan\documents\visual studio 2013\Projects\SeleniumDemo\RunChuke\obj\Debug\RunChuke.csprojResolveAssemblyReference.cache
+E:\NancyProjects\SeleniumDemo\RunChuke\bin\Debug\RunChuke.exe.config
+E:\NancyProjects\SeleniumDemo\RunChuke\obj\Debug\RunChuke.exe
+E:\NancyProjects\SeleniumDemo\RunChuke\obj\Debug\RunChuke.pdb

@@ -61,14 +61,18 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
+    <Compile Include="Base\CaseBase.cs" />
+    <Compile Include="Helper\BrowsersHelper.cs" />
     <Compile Include="Login.cs" />
     <Compile Include="LoginBetter.cs" />
     <Compile Include="PageObject\LoginPage.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SeleniumHelper.cs" />
+    <Compile Include="Helper\SeleniumHelper.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config" />
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>

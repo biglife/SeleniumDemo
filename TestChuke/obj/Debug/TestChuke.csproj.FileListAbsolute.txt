@@ -8,15 +8,3 @@ E:\NancyProjects\SeleniumDemo\TestChuke\bin\Debug\WebDriver.Support.dll
 E:\NancyProjects\SeleniumDemo\TestChuke\bin\Debug\WebDriver.Support.xml
 E:\NancyProjects\SeleniumDemo\TestChuke\bin\Debug\TestChuke.dll.config
 E:\NancyProjects\SeleniumDemo\TestChuke\bin\Debug\TechTalk.SpecFlow.dll
-E:\NancyProjects\SeleniumDemo\TestChuke\obj\Debug\TestChuke.csprojResolveAssemblyReference.cache
-C:\Users\nancy.liang\Desktop\SeleniumDemo\TestChuke\bin\Debug\TestChuke.dll.config
-C:\Users\nancy.liang\Desktop\SeleniumDemo\TestChuke\bin\Debug\TestChuke.dll
-C:\Users\nancy.liang\Desktop\SeleniumDemo\TestChuke\bin\Debug\TestChuke.pdb
-C:\Users\nancy.liang\Desktop\SeleniumDemo\TestChuke\bin\Debug\TechTalk.SpecFlow.dll
-C:\Users\nancy.liang\Desktop\SeleniumDemo\TestChuke\bin\Debug\WebDriver.dll
-C:\Users\nancy.liang\Desktop\SeleniumDemo\TestChuke\bin\Debug\WebDriver.Support.dll
-C:\Users\nancy.liang\Desktop\SeleniumDemo\TestChuke\bin\Debug\WebDriver.xml
-C:\Users\nancy.liang\Desktop\SeleniumDemo\TestChuke\bin\Debug\WebDriver.Support.xml
-C:\Users\nancy.liang\Desktop\SeleniumDemo\TestChuke\obj\Debug\TestChuke.csprojResolveAssemblyReference.cache
-C:\Users\nancy.liang\Desktop\SeleniumDemo\TestChuke\obj\Debug\TestChuke.dll
-C:\Users\nancy.liang\Desktop\SeleniumDemo\TestChuke\obj\Debug\TestChuke.pdb
